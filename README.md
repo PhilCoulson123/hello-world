@@ -1,2 +1,2 @@
 # hello-world
-A hello-world project.
+Hi! I'm Phil. This is my hello-world project.
